@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\shish\\source\\repos\\Personal_Task\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|c:\\users\\shish\\source\\repos\\personal_task\\personal_task\\personal_task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|solutionrelative:personal_task\\personal_task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|c:\\users\\shish\\source\\repos\\personal_task\\personal_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|solutionrelative:personal_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|c:\\users\\shish\\source\\repos\\personal_task\\personal_task\\models\\taskcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|solutionrelative:personal_task\\models\\taskcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|c:\\users\\shish\\source\\repos\\personal_task\\personal_task\\personal_task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|solutionrelative:personal_task\\personal_task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|c:\\users\\shish\\source\\repos\\personal_task\\personal_task\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Personal_Task.csproj.user",
               "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Personal_Task.csproj.user",
               "RelativeDocumentMoniker": "Personal_Task\\Personal_Task.csproj.user",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TaskCommentsController.cs",
               "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Controllers\\TaskCommentsController.cs",
               "RelativeDocumentMoniker": "Personal_Task\\Controllers\\TaskCommentsController.cs",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TaskComment.cs",
               "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Models\\TaskComment.cs",
               "RelativeDocumentMoniker": "Personal_Task\\Models\\TaskComment.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TaskComments.cs",
               "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Controllers\\TaskComments.cs",
               "RelativeDocumentMoniker": "Personal_Task\\Controllers\\TaskComments.cs",
@@ -106,15 +106,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Personal_Task.csproj",
               "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Personal_Task.csproj",
               "RelativeDocumentMoniker": "Personal_Task\\Personal_Task.csproj",
               "ToolTip": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Personal_Task.csproj",
               "RelativeToolTip": "Personal_Task\\Personal_Task.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-01T11:49:43.179Z"
+              "WhenOpened": "2026-01-01T11:49:43.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Program.cs",
               "RelativeDocumentMoniker": "Personal_Task\\Program.cs",

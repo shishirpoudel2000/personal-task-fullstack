@@ -5,7 +5,8 @@
     "\\Controllers",
     "\\Models",
     "\\obj",
-    "\\Properties"
+    "\\wwwroot"
   ],
+  "SelectedNode": "\\Personal_Task.http",
   "PreviewInSolutionExplorer": false
 }
