@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\assets\\index-BoVLpSAB.css",
+      "PackagePath": "staticwebassets\\assets\\index-BoVLpSAB.css"
+    },
+    {
+      "Id": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\assets\\index-C0HKD-NQ.js",
+      "PackagePath": "staticwebassets\\assets\\index-C0HKD-NQ.js"
+    },
+    {
+      "Id": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Personal_Task.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Personal_Task.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Personal_Task.props",
+      "PackagePath": "build\\Personal_Task.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Personal_Task.props",
+      "PackagePath": "buildMultiTargeting\\Personal_Task.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Personal_Task.props",
+      "PackagePath": "buildTransitive\\Personal_Task.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

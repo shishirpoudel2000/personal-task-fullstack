@@ -1,0 +1,1382 @@
+{
+  "Version": 1,
+  "Hash": "SEJZjy6gQluDqImj3jjtPT1Mgv6CMFKZX/8kBhv6oFs=",
+  "Source": "Personal_Task",
+  "BasePath": "_content/Personal_Task",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Personal_Task\\wwwroot",
+      "Source": "Personal_Task",
+      "ContentRoot": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\",
+      "BasePath": "_content/Personal_Task",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\0yew56a2ne-qu7w78umda.gz",
+      "SourceId": "Personal_Task",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Personal_Task",
+      "RelativePath": "assets/index-BoVLpSAB#[.{fingerprint=qu7w78umda}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\assets\\index-BoVLpSAB.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "us0xp893u0",
+      "Integrity": "slSy47g5Xo3rTz/K4Ow2CX7tB8E9YWd6z/ZvSSv8Wys=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\assets\\index-BoVLpSAB.css"
+    },
+    {
+      "Identity": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\267mbzno7c-69kjnsiwqx.gz",
+      "SourceId": "Personal_Task",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Personal_Task",
+      "RelativePath": "vite#[.{fingerprint=69kjnsiwqx}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\vite.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xj979drvbl",
+      "Integrity": "42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\vite.svg"
+    },
+    {
+      "Identity": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\krgmhpy3d4-v9fudbu5u5.gz",
+      "SourceId": "Personal_Task",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Personal_Task",
+      "RelativePath": "index#[.{fingerprint=v9fudbu5u5}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z5tw9jtxjt",
+      "Integrity": "Wb/VrV8oDVToxUeBu/ORzuFmiJeG6vukxccEVnH545M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\snwb6hq61i-93ojlpfsww.gz",
+      "SourceId": "Personal_Task",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Personal_Task",
+      "RelativePath": "assets/index-C0HKD-NQ#[.{fingerprint=93ojlpfsww}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\assets\\index-C0HKD-NQ.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dsm6jpwile",
+      "Integrity": "3S/VavS4E3ZGZkMimo+5mgY0fjWrpc4XER3A5BFyLv8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\assets\\index-C0HKD-NQ.js"
+    },
+    {
+      "Identity": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\assets\\index-BoVLpSAB.css",
+      "SourceId": "Personal_Task",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\",
+      "BasePath": "_content/Personal_Task",
+      "RelativePath": "assets/index-BoVLpSAB#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qu7w78umda",
+      "Integrity": "Piluu+oEHnrKL1g/fIgXpwYZJrN+SVZYbyFs7IX1sgo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-BoVLpSAB.css"
+    },
+    {
+      "Identity": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\assets\\index-C0HKD-NQ.js",
+      "SourceId": "Personal_Task",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\",
+      "BasePath": "_content/Personal_Task",
+      "RelativePath": "assets/index-C0HKD-NQ#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "93ojlpfsww",
+      "Integrity": "tSlDw5kFIvluakuy/gPxkJau/UUkJtwiDoF2GznTkMw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-C0HKD-NQ.js"
+    },
+    {
+      "Identity": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\index.html",
+      "SourceId": "Personal_Task",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\",
+      "BasePath": "_content/Personal_Task",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v9fudbu5u5",
+      "Integrity": "0wGVJ5Tkac0rgMt+niIhv6U7IujHCqV3aj9aDDrV314=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\vite.svg",
+      "SourceId": "Personal_Task",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\",
+      "BasePath": "_content/Personal_Task",
+      "RelativePath": "vite#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69kjnsiwqx",
+      "Integrity": "SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vite.svg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/index-BoVLpSAB.css",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\0yew56a2ne-qu7w78umda.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000807102502"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1238"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"slSy47g5Xo3rTz/K4Ow2CX7tB8E9YWd6z/ZvSSv8Wys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Piluu+oEHnrKL1g/fIgXpwYZJrN+SVZYbyFs7IX1sgo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Piluu+oEHnrKL1g/fIgXpwYZJrN+SVZYbyFs7IX1sgo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BoVLpSAB.css",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\assets\\index-BoVLpSAB.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Piluu+oEHnrKL1g/fIgXpwYZJrN+SVZYbyFs7IX1sgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Piluu+oEHnrKL1g/fIgXpwYZJrN+SVZYbyFs7IX1sgo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BoVLpSAB.css.gz",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\0yew56a2ne-qu7w78umda.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"slSy47g5Xo3rTz/K4Ow2CX7tB8E9YWd6z/ZvSSv8Wys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-slSy47g5Xo3rTz/K4Ow2CX7tB8E9YWd6z/ZvSSv8Wys="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BoVLpSAB.qu7w78umda.css",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\0yew56a2ne-qu7w78umda.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000807102502"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1238"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"slSy47g5Xo3rTz/K4Ow2CX7tB8E9YWd6z/ZvSSv8Wys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Piluu+oEHnrKL1g/fIgXpwYZJrN+SVZYbyFs7IX1sgo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qu7w78umda"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-BoVLpSAB.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Piluu+oEHnrKL1g/fIgXpwYZJrN+SVZYbyFs7IX1sgo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BoVLpSAB.qu7w78umda.css",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\assets\\index-BoVLpSAB.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Piluu+oEHnrKL1g/fIgXpwYZJrN+SVZYbyFs7IX1sgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qu7w78umda"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-BoVLpSAB.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Piluu+oEHnrKL1g/fIgXpwYZJrN+SVZYbyFs7IX1sgo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BoVLpSAB.qu7w78umda.css.gz",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\0yew56a2ne-qu7w78umda.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"slSy47g5Xo3rTz/K4Ow2CX7tB8E9YWd6z/ZvSSv8Wys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qu7w78umda"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-BoVLpSAB.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-slSy47g5Xo3rTz/K4Ow2CX7tB8E9YWd6z/ZvSSv8Wys="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-C0HKD-NQ.93ojlpfsww.js",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\snwb6hq61i-93ojlpfsww.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000016185420"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61783"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3S/VavS4E3ZGZkMimo+5mgY0fjWrpc4XER3A5BFyLv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tSlDw5kFIvluakuy/gPxkJau/UUkJtwiDoF2GznTkMw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "93ojlpfsww"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-C0HKD-NQ.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tSlDw5kFIvluakuy/gPxkJau/UUkJtwiDoF2GznTkMw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-C0HKD-NQ.93ojlpfsww.js",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\assets\\index-C0HKD-NQ.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "197376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tSlDw5kFIvluakuy/gPxkJau/UUkJtwiDoF2GznTkMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "93ojlpfsww"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-C0HKD-NQ.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tSlDw5kFIvluakuy/gPxkJau/UUkJtwiDoF2GznTkMw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-C0HKD-NQ.93ojlpfsww.js.gz",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\snwb6hq61i-93ojlpfsww.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3S/VavS4E3ZGZkMimo+5mgY0fjWrpc4XER3A5BFyLv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "93ojlpfsww"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-C0HKD-NQ.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3S/VavS4E3ZGZkMimo+5mgY0fjWrpc4XER3A5BFyLv8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-C0HKD-NQ.js",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\snwb6hq61i-93ojlpfsww.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000016185420"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61783"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3S/VavS4E3ZGZkMimo+5mgY0fjWrpc4XER3A5BFyLv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tSlDw5kFIvluakuy/gPxkJau/UUkJtwiDoF2GznTkMw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tSlDw5kFIvluakuy/gPxkJau/UUkJtwiDoF2GznTkMw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-C0HKD-NQ.js",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\assets\\index-C0HKD-NQ.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "197376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tSlDw5kFIvluakuy/gPxkJau/UUkJtwiDoF2GznTkMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tSlDw5kFIvluakuy/gPxkJau/UUkJtwiDoF2GznTkMw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-C0HKD-NQ.js.gz",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\snwb6hq61i-93ojlpfsww.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61783"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3S/VavS4E3ZGZkMimo+5mgY0fjWrpc4XER3A5BFyLv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3S/VavS4E3ZGZkMimo+5mgY0fjWrpc4XER3A5BFyLv8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\krgmhpy3d4-v9fudbu5u5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003322259136"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wb/VrV8oDVToxUeBu/ORzuFmiJeG6vukxccEVnH545M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0wGVJ5Tkac0rgMt+niIhv6U7IujHCqV3aj9aDDrV314=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0wGVJ5Tkac0rgMt+niIhv6U7IujHCqV3aj9aDDrV314="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0wGVJ5Tkac0rgMt+niIhv6U7IujHCqV3aj9aDDrV314=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0wGVJ5Tkac0rgMt+niIhv6U7IujHCqV3aj9aDDrV314="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\krgmhpy3d4-v9fudbu5u5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wb/VrV8oDVToxUeBu/ORzuFmiJeG6vukxccEVnH545M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wb/VrV8oDVToxUeBu/ORzuFmiJeG6vukxccEVnH545M="
+        }
+      ]
+    },
+    {
+      "Route": "index.v9fudbu5u5.html",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\krgmhpy3d4-v9fudbu5u5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003322259136"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wb/VrV8oDVToxUeBu/ORzuFmiJeG6vukxccEVnH545M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0wGVJ5Tkac0rgMt+niIhv6U7IujHCqV3aj9aDDrV314=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v9fudbu5u5"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0wGVJ5Tkac0rgMt+niIhv6U7IujHCqV3aj9aDDrV314="
+        }
+      ]
+    },
+    {
+      "Route": "index.v9fudbu5u5.html",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0wGVJ5Tkac0rgMt+niIhv6U7IujHCqV3aj9aDDrV314=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v9fudbu5u5"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0wGVJ5Tkac0rgMt+niIhv6U7IujHCqV3aj9aDDrV314="
+        }
+      ]
+    },
+    {
+      "Route": "index.v9fudbu5u5.html.gz",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\krgmhpy3d4-v9fudbu5u5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wb/VrV8oDVToxUeBu/ORzuFmiJeG6vukxccEVnH545M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 15:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v9fudbu5u5"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wb/VrV8oDVToxUeBu/ORzuFmiJeG6vukxccEVnH545M="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\267mbzno7c-69kjnsiwqx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001295336788"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "771"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 12:39:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 12:39:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg.gz",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\267mbzno7c-69kjnsiwqx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 12:39:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\267mbzno7c-69kjnsiwqx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001295336788"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "771"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 12:39:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 12:39:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg.gz",
+      "AssetFile": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\obj\\Debug\\net9.0\\compressed\\267mbzno7c-69kjnsiwqx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Jan 2026 12:39:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY="
+        }
+      ]
+    }
+  ]
+}

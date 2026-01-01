@@ -1,0 +1,8 @@
+C:\Users\shish\source\repos\Personal_Task\Personal_Task\wwwroot\assets\index-BoVLpSAB.css
+C:\Users\shish\source\repos\Personal_Task\Personal_Task\wwwroot\vite.svg
+C:\Users\shish\source\repos\Personal_Task\Personal_Task\wwwroot\index.html
+C:\Users\shish\source\repos\Personal_Task\Personal_Task\wwwroot\assets\index-C0HKD-NQ.js
+wwwroot\assets\index-BoVLpSAB.css
+wwwroot\assets\index-C0HKD-NQ.js
+wwwroot\index.html
+wwwroot\vite.svg

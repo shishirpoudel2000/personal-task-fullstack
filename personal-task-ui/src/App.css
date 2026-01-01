@@ -1,0 +1,264 @@
+/* =========================
+   GLOBAL RESET
+========================= */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f4f6f9;
+  color: #1f2937;
+  font-family: Arial, sans-serif;
+}
+
+/* =========================
+   MAIN CONTAINER
+========================= */
+.app-container {
+  width: 100%;
+  max-width: 1400px; /* 🔥 WIDER DASHBOARD */
+  margin: 0 auto;
+  padding: 24px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #111827;
+}
+
+/* =========================
+   STATS GRID
+========================= */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.card {
+  background: #ffffff;
+  padding: 22px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+}
+
+.card h2 {
+  margin: 0;
+  font-size: 34px;
+}
+
+.card span {
+  font-size: 14px;
+  color: #6b7280;
+}
+
+.complete {
+  color: #16a34a;
+  font-weight: 600;
+}
+
+.not-complete {
+  color: #dc2626;
+  font-weight: 600;
+}
+
+/* =========================
+   GRAPH
+========================= */
+.graph {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.circle-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.circle {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.circle-inner {
+  width: 120px;
+  height: 120px;
+  background: white;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
+.circle-inner strong {
+  font-size: 30px;
+}
+
+.circle-inner span {
+  font-size: 14px;
+  color: #6b7280;
+}
+
+/* =========================
+   CREATE ROW
+========================= */
+.create-row {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.create-row input {
+  flex: 1;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  font-size: 15px;
+}
+
+.add {
+  padding: 12px 20px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.add:hover {
+  background: #1d4ed8;
+}
+
+/* =========================
+   MAIN TWO-COLUMN LAYOUT
+========================= */
+.two-column {
+  display: grid;
+  grid-template-columns: 2.5fr 1.5fr;
+  gap: 24px;
+  margin-top: 30px;
+  align-items: start;
+}
+
+
+/* =========================
+   TASK TABLE
+========================= */
+table {
+  width: 100%;
+  background: white;
+  border-collapse: collapse;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+}
+
+th, td {
+  padding: 14px 16px;
+  text-align: left;
+}
+
+th {
+  background: #f3f4f6;
+  color: #374151;
+}
+
+tbody tr:hover {
+  background: #f9fafb;
+}
+
+.selected-row {
+  background: #eef5ff;
+}
+
+td.complete,
+td.not-complete {
+  cursor: pointer;
+}
+
+.delete {
+  background: #dc2626;
+  color: white;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.delete:hover {
+  background: #b91c1c;
+}
+
+/* =========================
+   COMMENT PANEL (RIGHT SIDE)
+========================= */
+.comment-panel {
+  background: white;
+  padding: 18px;
+  border-radius: 12px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+  position: sticky;
+  top: 20px; /* 🔥 stays visible while scrolling */
+}
+
+.comment-panel h3 {
+  margin-top: 0;
+}
+
+.comment-list {
+  margin: 16px 0;
+}
+
+.comment {
+  border-bottom: 1px solid #e5e7eb;
+  padding: 10px 0;
+}
+
+.comment p {
+  margin: 0 0 4px;
+}
+
+.comment small {
+  color: #6b7280;
+  font-size: 12px;
+}
+
+.comment textarea {
+  width: 100%;
+  min-height: 70px;
+  margin-bottom: 6px;
+}
+
+.comment button {
+  margin-top: 6px;
+}
+
+textarea {
+  width: 100%;
+  min-height: 80px;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #d1d5db;
+}
+.task-table-wrapper{
+  width: 100%;
+}
+
+.empty-comment {
+  color: #6b7280;
+  font-size: 14px;
+  text-align: center;
+  margin-top: 40px;
+}

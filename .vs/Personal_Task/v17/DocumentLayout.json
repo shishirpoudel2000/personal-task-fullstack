@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shish\\source\\repos\\Personal_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|c:\\users\\shish\\source\\repos\\personal_task\\personal_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|solutionrelative:personal_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Personal_Task.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Personal_Task\\Personal_Task.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Controllers\\TaskComments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Personal_Task\\Controllers\\TaskComments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|c:\\users\\shish\\source\\repos\\personal_task\\personal_task\\controllers\\taskcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|solutionrelative:personal_task\\controllers\\taskcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|c:\\users\\shish\\source\\repos\\personal_task\\personal_task\\models\\taskcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|solutionrelative:personal_task\\models\\taskcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|c:\\users\\shish\\source\\repos\\personal_task\\personal_task\\personal_task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|solutionrelative:personal_task\\personal_task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|c:\\users\\shish\\source\\repos\\personal_task\\personal_task\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|solutionrelative:personal_task\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|c:\\users\\shish\\source\\repos\\personal_task\\personal_task\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|solutionrelative:personal_task\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|c:\\users\\shish\\source\\repos\\personal_task\\personal_task\\controllers\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|solutionrelative:personal_task\\controllers\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|c:\\users\\shish\\source\\repos\\personal_task\\personal_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA204EFE-E899-4BF1-AC3C-E86478901AE2}|Personal_Task\\Personal_Task.csproj|solutionrelative:personal_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personal_Task.csproj.user",
+              "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Personal_Task.csproj.user",
+              "RelativeDocumentMoniker": "Personal_Task\\Personal_Task.csproj.user",
+              "ToolTip": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Personal_Task.csproj.user",
+              "RelativeToolTip": "Personal_Task\\Personal_Task.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2026-01-01T15:57:32.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskCommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Controllers\\TaskCommentsController.cs",
+              "RelativeDocumentMoniker": "Personal_Task\\Controllers\\TaskCommentsController.cs",
+              "ToolTip": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Controllers\\TaskCommentsController.cs",
+              "RelativeToolTip": "Personal_Task\\Controllers\\TaskCommentsController.cs",
+              "ViewState": "AgIAACUAAAAAqJmZmZkBwDAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:27:06.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskComment.cs",
+              "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Models\\TaskComment.cs",
+              "RelativeDocumentMoniker": "Personal_Task\\Models\\TaskComment.cs",
+              "ToolTip": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Models\\TaskComment.cs",
+              "RelativeToolTip": "Personal_Task\\Models\\TaskComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:18:24.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskComments.cs",
+              "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Controllers\\TaskComments.cs",
+              "RelativeDocumentMoniker": "Personal_Task\\Controllers\\TaskComments.cs",
+              "ToolTip": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Controllers\\TaskComments.cs",
+              "RelativeToolTip": "Personal_Task\\Controllers\\TaskComments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:16:22.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personal_Task.csproj",
+              "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Personal_Task.csproj",
+              "RelativeDocumentMoniker": "Personal_Task\\Personal_Task.csproj",
+              "ToolTip": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Personal_Task.csproj",
+              "RelativeToolTip": "Personal_Task\\Personal_Task.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-01T11:49:43.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Personal_Task\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\AppDbContext.cs",
+              "RelativeToolTip": "Personal_Task\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T11:36:16.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Personal_Task\\Program.cs",
+              "ToolTip": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Program.cs",
+              "RelativeToolTip": "Personal_Task\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T11:35:39.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Personal_Task\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Personal_Task\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAANDMzMzPjvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T11:34:53.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Controllers\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Personal_Task\\Controllers\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\Controllers\\TaskItem.cs",
+              "RelativeToolTip": "Personal_Task\\Controllers\\TaskItem.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T11:31:34.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\appsettings.json",
+              "RelativeDocumentMoniker": "Personal_Task\\appsettings.json",
+              "ToolTip": "C:\\Users\\shish\\source\\repos\\Personal_Task\\Personal_Task\\appsettings.json",
+              "RelativeToolTip": "Personal_Task\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-01T11:27:30.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
